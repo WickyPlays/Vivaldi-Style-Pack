@@ -1,0 +1,16 @@
+#main > div.mainbar > div > div:nth-child(1) {
+  display: none;
+}
+
+.bookmark-bar .default {
+  height: 38px;
+  padding: 0 0.5vw;
+}
+
+.UrlBar-AddressField {
+  margin-left: 25px;
+}
+
+#header {
+  --colorTabBar: #000000;
+}
