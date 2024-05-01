@@ -3,15 +3,17 @@
 
 Hi, Wicky here! This is my personal CSS mod packs for Vivaldi browser which reserves for modifying UX in the browser for my (or your) conveniences.
 
-
 ## What this includes
 
 Style 01: (Dark mode users)
++ The CSS file for this style all have explainations for each CSS for you!
++ Force back/next/refresh button to left.
 + Some adjust for bookmark tab (bigger height).
 + Recoloring of normal tab and active/focus tab.
 + Title will be competely black instead of just gray.
 + Remove glowing in active tab icon.
 + For tabs that have audio, prevented audio icon replacing default tab icon and put it to the right instead.
+
 ## Contribution
 
 Anyone can participate in this project! Submit your style pack via pull requests.

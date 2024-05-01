@@ -1,40 +1,50 @@
+/*Remove padding to force back/next/refresh button to left*/
 #main>div.mainbar>div>div:nth-child(1) {
   display: none;
 }
 
+/*Make bookbar tab bigger & padding them*/
 .bookmark-bar .default {
-  height: 38px;
-  padding: 0 0.5vw;
+  height: 40px;
+  padding: 0 0.8vw;
 }
 
+/*Move address bar left*/
 .UrlBar-AddressField {
-  margin-left: 25px;
+  margin-left: 35px;
 }
 
+/*Change tab bar color, default to black*/
 #header {
   --colorTabBar: #000000;
 }
 
+/*Remove glow in active tab icon*/
 .tab-position .tab.active .tab-header .favicon {
   filter: none !important;
 }
 
+/*Change tab background color (not active one)*/
 .tab {
   background-color: #121212 !important;
 }
 
+/*Change tab background color (active one)*/
 .tab.active {
   background-color: #2a2a2d !important;
 }
 
+/*Do not hide icon in tab (audio)*/
 .tab * .favicon {
   transform: scale(1) !important;
 }
 
+/*Move audio icon in tab to right (when audio is playing)*/
 .tab * .tab-audio {
   margin-left: 20px !important;
 }
 
+/*Move title in tab to to right (when audio is playing)*/
 .tab.audio-on * .title {
   padding-left: 22px !important;
 }
