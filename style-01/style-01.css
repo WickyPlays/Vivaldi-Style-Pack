@@ -32,9 +32,9 @@
 }
 
 .tab * .tab-audio {
-  margin-left: 22px !important;
+  margin-left: 20px !important;
 }
 
 .tab.audio-on * .title {
-  padding-left: 15px !important;
+  padding-left: 22px !important;
 }
