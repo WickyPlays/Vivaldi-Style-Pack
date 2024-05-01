@@ -1,4 +1,4 @@
-#main > div.mainbar > div > div:nth-child(1) {
+#main>div.mainbar>div>div:nth-child(1) {
   display: none;
 }
 
@@ -13,4 +13,28 @@
 
 #header {
   --colorTabBar: #000000;
+}
+
+.tab-position .tab.active .tab-header .favicon {
+  filter: none !important;
+}
+
+.tab {
+  background-color: #121212 !important;
+}
+
+.tab.active {
+  background-color: #2a2a2d !important;
+}
+
+.tab * .favicon {
+  transform: scale(1) !important;
+}
+
+.tab * .tab-audio {
+  margin-left: 22px !important;
+}
+
+.tab.audio-on * .title {
+  padding-left: 15px !important;
 }
