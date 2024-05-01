@@ -23,7 +23,7 @@ Step 1: Go to "vivaldi://experiments/". Tick "Allow for using CSS modifications"
 Step 2: Go to "vivaldi://inspect/#apps". After that, inspect for suitable div or HTML tags for your needs.
 
 Step 3: After finishing, go to Vivaldi Setting, go here and select your (or this project's) style pack:
-![Image](https://imgur.com/a/4xItaU1)
+![Image](https://i.imgur.com/68omEI4.png)
 
 ## Donation
 If you like my project(s) so far, you can support me for any active developments and deliveries!
