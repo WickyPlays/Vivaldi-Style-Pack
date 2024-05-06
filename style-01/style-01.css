@@ -1,5 +1,5 @@
 /*Remove padding to force back/next/refresh button to left*/
-#main>div.mainbar>div>div:nth-child(1) {
+.toolbar > .toolbar-spacer-flexible {
   display: none;
 }
 
